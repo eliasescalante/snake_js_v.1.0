@@ -28,4 +28,11 @@ Este juego se ejecuta directamente en el navegador. No requiere instalación loc
 
 ![Captura](https://github.com/eliasescalante/snake_js_v.1.0/blob/main/capture_snake_js.png)
 
+----
 
+![GitHub repo size](https://img.shields.io/github/repo-size/eliasescalante/snake_js_v.1.0
+)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/eliasescalante/snake_js_v.1.0
+)
+![GitHub last commit](https://img.shields.io/github/last-commit/eliasescalante/snake_js_v.1.0
+)
