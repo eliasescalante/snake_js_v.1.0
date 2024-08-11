@@ -24,6 +24,10 @@ Este juego se ejecuta directamente en el navegador. No requiere instalación loc
 - `index.html`: El archivo principal HTML que carga el juego.
 - `snake.js`: El archivo JavaScript que contiene la lógica del juego.
 
+## Deploy:
+
+- https://elias-escalante.itch.io/snake-basic
+
 # Capture
 
 ![Captura](https://github.com/eliasescalante/snake_js_v.1.0/blob/main/capture_snake_js.png)
